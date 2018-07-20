@@ -1,6 +1,8 @@
 # Site settings
-title: "Alt Test Resume Template"
-description: "A resume template for I to see things."
+
+title: "Test Resume Template"
+description: "A resume template for me to figure this stuff out on."
+
 
 # Build settings
 markdown: kramdown
